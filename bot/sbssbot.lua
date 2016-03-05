@@ -227,6 +227,7 @@ function create_config( )
     "admin",
     "lock_badw",
     "lock_link",
+    "date",
     "tag",
     "setrank",
     "id",
