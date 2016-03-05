@@ -236,6 +236,7 @@ function create_config( )
     "feedback",
     "getplug",
     "echo",
+    "linkpv",
     "plugins",
     "time",
     "welcome"
