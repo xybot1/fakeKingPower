@@ -229,6 +229,7 @@ function create_config( )
     "lock_badw",
     "lock_link",
     "date",
+    "calc",
     "tag",
     "setrank",
     "id",
@@ -246,7 +247,10 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-    
+    kingpower
+    Version:1.0
+    About:یک بات با پلاگین های فارسی
+    Admin:@kingpower_admin
 ]],
     help_text_realm = [[
 See Patterns In Github
