@@ -31,7 +31,7 @@ end
 
 return {
 patterns = {
-"^اینفو"
+"^اینفو$"
 },
 run = run
 }
