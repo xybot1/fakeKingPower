@@ -218,6 +218,7 @@ function create_config( )
     "owners",
     "arabic_lock",
     "set",
+    "inra",
     "get",
     "broadcast",
     "download_media",
@@ -241,7 +242,7 @@ function create_config( )
     "time",
     "welcome"
     },
-    sudo_users = {144616352,177377373,135879105},--Sudo users
+    sudo_users = {144616352},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
