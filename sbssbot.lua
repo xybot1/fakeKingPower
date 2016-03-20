@@ -243,14 +243,15 @@ function create_config( )
     "time",
     "welcome"
     },
-    sudo_users = {144616352},--Sudo users
+    sudo_users = {144616352,181843952},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
     kingpower
     Version:1.0
     About:یک بات با پلاگین های فارسی
-    Admin:@kingpower_admin
+    Admins:@kingpower_admin
+           @Ah2002
 ]],
     help_text_realm = [[
 See Patterns In Github
