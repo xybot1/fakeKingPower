@@ -1,4 +1,4 @@
-#SBSS Bot
+#KING POWER
 
 * **تمامی پلاگین ها فارسی میباشند**
 
@@ -67,9 +67,4 @@
   > لینک خصوصی ,
   > حذف غیرفعالین ,
   > حذف غیرفعالین  ,
-
-#It Will Be Edit Soon
-
-#Wiki Soon...
-
-#Powered By [@SBSS_Team](telegram.me/Sbss_Team)
+ > بزودی با پلاگین های جدید می آییم
